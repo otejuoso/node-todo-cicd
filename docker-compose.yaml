@@ -4,4 +4,4 @@ services:
   web:
     image: "ottejuoso/image1"      
     ports:
-      - "8000:8000"
+      - "8004:8005"
